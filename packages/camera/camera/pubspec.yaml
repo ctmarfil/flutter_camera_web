@@ -28,7 +28,7 @@ dependencies:
     git:
       url: https://github.com/ctmarfil/flutter_camera_web
       path: packages/camera/camera_web
-      ref: 1193b3660f40f220f1faeacb816c1f36b70fa293
+      ref: main
   flutter:
     sdk: flutter
   flutter_plugin_android_lifecycle: ^2.0.2
